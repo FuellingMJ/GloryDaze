@@ -1,0 +1,23 @@
+{
+    "name"     : "Hallway 3",
+    "altnames" : ["dingy hallway", "dingyhallway", "Hallway3", "hallway3", "hall3", "hall 3", "east hall", "easthall"],
+    "long"     : "You are in a wide, dingy hallway.  On the south side there is evidence that somebody threw up their lunch, again.  A mop and bucket is near the door, ready to continue cleaning up the evidence.  On the wall is a bulletin board with menus and announcements.",
+    "short"    : "A wide dingy hall with mop and bucket and bulletin board.",
+    "addl"     : "A train whistle sounds across the lonely field",
+    "exits"    : {  "east"      : "Gym",
+                    "north"     : "Bathroom",
+                    "south"     : "Cafeteria",
+                    "west"      : "Library",
+                    "funny smelling room"    : "Gym",
+                    "smelly room"            : "Bathroom",
+                    "pleasent smelling room" : "Cafeteria",
+                    "massive room"           : "Library"
+                 },
+    "items"    : [],
+    "features" : {  "mop" : "Smells of strong cleaning solutions",
+                    "bucket" : "A bucket having a strong cleaning solution.",
+                    "evidence" : "This is ... well ... you really do not want to know, but it has been cleaned up with a disinfecting agent on top",
+                    "bulletinboard" : "There is a prominent announcement in big bold letters about Dodgeball tryouts TODAY!"
+                 },
+    "visited"  : false
+}
